@@ -10,6 +10,7 @@
 	<title>PHP Intro</title>
 </head>
 <body>
+	<p>Estoy probando el add., commit y push</p>
 	<h1>Into PHP</h1>
 
 	<form action="store.php" method="POST">
