@@ -10,7 +10,7 @@
 	<title>PHP Intro</title>
 </head>
 <body>
-	<h1>Into PHP - D13</h1>
+	<h1>Into PHP</h1>
 
 	<form action="store.php" method="POST">
 	<label for="tarea">Nombre de Tarea </label><br>
